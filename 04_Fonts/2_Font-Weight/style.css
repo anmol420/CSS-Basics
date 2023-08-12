@@ -1,0 +1,15 @@
+.bold {
+    font-weight: bold;
+}
+
+#bold {
+    font-weight: bolder;
+}
+
+#lighter {
+    font-weight: lighter;
+}
+
+#number {
+    font-weight: 100;
+}
