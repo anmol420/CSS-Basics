@@ -1,0 +1,26 @@
+/* Write your code here: */
+
+/* Multiple Selector */
+h1, h2 {
+    color: blueviolet;
+}
+
+/* Parent>Child Selector */
+.box > p {
+    color: firebrick;
+}
+
+/* Descendant Selector */
+.box ul {
+    color: blue;
+}
+
+/* Chain Selector */
+li.done {
+    color: seagreen;
+}
+
+/* Chain Selector */
+ul p.done {
+    font-size: .5rem;
+}
